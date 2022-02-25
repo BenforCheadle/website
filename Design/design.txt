@@ -1,0 +1,4 @@
+large opening image - 90% of first screen with nav bar at top and writing under to
+scroll, tet over the image, caracolle to go to the next images and text.
+Nav bar at top that collapses when scrolling down
+Two coloumn down the middle 
